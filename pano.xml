@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="21010" hassounds="0" start="node1" appversion="7.1.11">
+  <panorama id="node1">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="01" nodeid="node1" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node2}" skinid="ht_node_1" title="" pan="-21.61" description="" tilt="-11.41"/>
+      <hotspot id="Point02" target="_blank" url="images/A2_420_594mm-0521.jpg" skinid="ht_image" title="展覽主視覺" pan="-347.45" description="" tilt="13.12"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="02" nodeid="node2" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node3}" skinid="ht_node_1" title="" pan="-30.68" description="" tilt="-4.25"/>
+      <hotspot id="Point02" target="$fwd" url="{node1}" skinid="ht_node_1" title="" pan="-148.97" description="" tilt="-7.92"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="03" nodeid="node3" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node4}" skinid="ht_node_1" title="" pan="-278.63" description="" tilt="-13.58"/>
+      <hotspot id="Point02" target="$fwd" url="{node2}" skinid="ht_node_1" title="" pan="-120.43" description="" tilt="-13.09"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="展覽介紹" pan="-354.25" description="「Practice and Practice：李錦繡、謝貽娟與我」以兩位嘉義出生女性藝術家李錦繡（1953–2003）與謝貽娟（1967–2017）為核心，透過作品、日常習作、實驗創作與教案，展現她們面對藝術、自我與他人之間的思考與實踐歷程。展覽亦由蔡志賢、康雅筑、王怡婷三位藝術家，透過田調與現地創作，共構跨世代對話，重新看見兩位嘉義當代藝術家的藝術與生命實踐。&#xa;&#xa;1990年代開始，女性藝術逐漸受美術館重視，在經歷不同階段的展覽與歷史整理之後，近年各美術館更進一步關注女性的多重身分與社會角色，而形塑出不同視角和定位的展覽。於此脈絡下，嘉義市立美術館也關切此一議題，透過李錦繡與謝貽娟兩位早逝的女性藝術家，觀察她們如何在有限生命中迸發無限能量，也反思如何突破既有的性別論述框架予以重述及擴展。本展嘗試從李錦繡既有的高度評價之上，揭示她精妙融合書法線條的創作方法，以及投身兒童教育、奉獻自我的一面；從謝貽娟身上，則著重一位藝術家奮力的自我養成，是如何運用大量練習、自畫像、速寫本與複合媒材，建構自我與空間的對話。&#xa;&#xa;展題「Practice and Practice」意為「實踐」和「練習」，透過研究與策劃，展覽不僅止是單純的作品觀看與賞析，也強調藝術創作中的實踐性與過程性，並從藝術家的作品和思想，進一步延伸至觀者之眼，開拓出第三空間。&#xa;&#xa;展覽以三個子題：「我與我們」、「加與減」、「方圓之外」，開展兩位創作者的生命與藝術之關聯，共計展出包含油畫、水彩、壓克力、版畫、攝影、複合媒材等平面創作共100多件，畫家手稿、速寫本、生活物件及檔案照片等相關物件近90件，另外特別呈現三組共同創作，期許觀者可從中認識此對應與連結於時間進程中不斷演變、不斷被重賦意義所呈顯的多重面貌與內涵，深切感受藝術家實踐與練習的精神與能量。" tilt="33.39"/>
+      <hotspot id="Point04" target="" url="" skinid="ht_info" title="Exhibition Overview " pan="-26.95" description=" Chiayi-born women artists—Lii Jiin Shiow (1953-2003) and Jo Hsieh (1967-2017), the Practice and Practice with LII Jiin Shiow and Jo HSIEH exhibition presents their journeys of thoughts and practices within the realms of art, the self, and others through their works, quotidian studies, experimental creations, and lesson plans. The exhibition also includes three artists—Tsai Chih-hsien, Kang Ya-chu, and Wang Yi-ting, who engage in cross-generational dialogues through field researches and site-specific works, revisiting the artistic and life practices of the two contemporary artists from Chiayi.   &#xa;Since the 1990s, women’s art has been increasingly emphasized by art museums. After undergoing various stages of exhibitions and historical compilations, in recent years, art museums have further focused on the multiple identities and social roles of women, organizing exhibitions from different perspectives and positions. In this context, the Chiayi Art Museum is also concerned about this issue. Through featuring the two women artists, Lii Jiin Shiow and Jo Hsieh, who passed away in their middle age, the museum explores how their boundless energy emerged despite their limited lifespans, and reflects on how to challenge the established framework of gender discourse for reinterpretation and expansion. The exhibition attempts to reveal, based on the existing high regard for Lii, her creative approaches that ingeniously incorporated calligraphic lines, as well as her dedication to children’s education and selfless devotion. For Hsieh, the exhibition highlights her dedicated journey of self-development, showcasing how she built a dialogue between herself and space through extensive practice, self-portraits, sketchbooks, and mixed media.  &#xa;The “Practice and Practice” in the exhibition title refers to both “the act of putting ideas into action” and “the process of repeated practice.” Through research and curating, the exhibition is not merely about viewing and appreciating works, but also emphasizes the practice and process of art-making. Furthermore, from the artists’ works and ideas, it extends to the viewer’s perspective, opening up a third space. &#xa;Organized into three sub-themes—“I, We, and the In-Between,” “More and Less,” and “Outside the Form,” the exhibition delves into the relationship between the lives and art of the two artists. It showcases over 100 two-dimensional works, including oil paintings, watercolors, acrylic paintings, prints, photographs, and mixed media. It also features nearly 90 related items such as the artists’ manuscripts, sketchbooks, everyday objects, and archival photographs. In addition, three co-creations are specially presented. Viewers will gain insight into the multiple facets and meanings of their contrasts and connections, which constantly evolve and are redefined over time, deeply experiencing the spirit and energy of the artists’ “practice and practice.”" tilt="30.99"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="04" nodeid="node4" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node3}" skinid="ht_node_1" title="" pan="-123.47" description="" tilt="-12.88"/>
+      <hotspot id="Point02" target="$fwd" url="{node5}" skinid="ht_node_1" title="" pan="-281.01" description="" tilt="-13.94"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="李錦繡/ LII Jiin Shiow（1953–2003）" pan="-334.61" description="嘉義出生，自幼展現藝術天分，畢業於國立臺灣師範大學美術系，1980年代赴法國巴黎高等裝飾藝術學院進修。返臺後她投身創作與教育，並協助家人從事兒童藝術教育。她的創作形式涵蓋繪畫、書法與裝置等，且善用日常物件為媒材，作品結合東方書道與西方構成，呈現自由靈動的藝術語彙。1990年代她活躍於臺灣前衛藝術圈，其開創性極具指標性。因個性低調且多工繁忙，她生前並不積極籌辦個展，身後作品則陸續有大型展出及相關研究。&#xa;&#xa;Born in Chiayi, Lii Jiin Shiow displayed a talent for art from an early age. She graduated from the Department of Fine Arts at National Taiwan Normal University, and, in the 1980s, she went to Paris, France for further studies and enrolled in the École Nationale Supérieure des Arts Décoratifs. After returning to Taiwan, she engaged in creative practice and teaching, and assisted her family in children’s art education. Working in painting, calligraphy, installation, and other forms, Lii was skilled at using everyday objects as creative media. Her work integrates Eastern calligraphy and Western composition, demonstrating a free-spirited and dynamic artistic vocabulary. She was active in Taiwan's avant-garde art scene in the 1990s, with her pioneering works being highly iconic. Due to her low profile and busy schedule, she was not active in organizing solo exhibitions during her lifetime. However, after her passing, her works have been continuously exhibited on a large scale, accompanied by ongoing research." tilt="23.14"/>
+      <hotspot id="Point04" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-18.33" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：自畫像/ Self Portrait&#xa;創作年代/ Year：1977&#xa;尺寸/Size：77 × 53.5 cm&#xa;類型/ Medium：水彩、紙/ Watercolor on paper&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="-3.46"/>
+      <hotspot id="Point05" target="" url="" skinid="ht_info" title="作品簡介/ Artwork Introduction" pan="-332.86" description="自畫像/ Self Portrait&#xa;&#xa;李錦繡喜歡「灰」，熱衷於表現灰色調帶來的模糊狀態，甚至是一種之於表象之「光」的另一面「影」。本件《自畫像》表現所處環境的黑暗，前端透進幾絲光線，人物的臉龐到手臂之間反射灰綠色的光影，後方牆壁也有光影呈現的色域。李錦繡於抽象與具象之間、內與外之間，將自我的情緒和詭譎的氛圍表現得曖昧不清，綠、紫與橘的幾抹顏色，也成了灰色裡的點綴和靈氣。&#xa;&#xa;Fond of the color gray, Lii Jiin Shiow was keen on expressing the ambiguity conveyed by gray tones, or even shadow as the counterpart to the light of appearances. The work Self Portrait depicts a dim environment with a few rays of light coming through the front. From the face to the arms, the subject reflects a play of gray-green light and shadow. The wall in the background also displays a range of tones shaped by light and shadow. Navigating between the abstract and the figurative, the interior and the exterior, Lii expresses her emotions and an eerie atmosphere in an ambiguous way. Colors of green, purple, and orange punctuate the gray tones, exuding a sense of etherealness." tilt="-0.95"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="05" nodeid="node5" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node4}" skinid="ht_node_1" title="" pan="-79.67" description="" tilt="-12.29"/>
+      <hotspot id="Point02" target="$fwd" url="{node6}" skinid="ht_node_1" title="" pan="-289.53" description="" tilt="-10.78"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="謝貽娟/ Jo Hsieh（1967–2017）" pan="-333.55" description="嘉義出生，自青少年時期即對藝術展現強烈意志，國中畢業後就讀復興商工，1990年代赴英國進修，1998年取得英國皇家藝術學院碩士，2002年取得費爾茅斯藝術學院藝術哲學博士學位。她長期旅居英國，發展出以「非空間」（None-Space）為核心概念的創作系列，善用藍色、幾何與複合媒材表現內在狀態。2015年她回到臺灣仍持續創作，生前多次參與在英國、美國與臺灣等地的展覽，身後由家人成立基金會持續推廣其藝術。&#xa;&#xa;Born in Chiayi, Jo Hsieh showed a strong aspiration for art from her teenage years, and she entered the Fu-Hsin Trade &amp; Arts School after graduating from the junior high school. In the 1990s, she pursued advanced studies in the UK, earning a master’s degree from the Royal College of Art in 1998 and a doctoral degree in Philosophy of Art from Falmouth College of Art in 2002. During her long residence in the UK, Hsieh developed a series of works centered around the concept of “None-Space,” employing blue tones, geometric elements, and mixed media to express her inner state. In 2015, she returned to Taiwan and continued her creative practice. Throughout her lifetime, she participated in numerous exhibitions in the UK, the USA, and Taiwan; after her passing, her family established a foundation to continuously promote her art. " tilt="20.59"/>
+      <hotspot id="Point04" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-16.13" description="藝術家/ Artist：謝貽娟/ Jo Hsieh&#xa;作品名稱/ Title：Dreamland III&#xa;創作年代/ Year：1993&#xa;尺寸/Size：70.5× 45 cm&#xa;類型/ Medium：凸版─凸版套印/ Relief: Relief printingr&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="-1.88"/>
+      <hotspot id="Point05" target="_blank" url="images/PR0114_AP3.jpg" skinid="ht_image" title="Dreamland III" pan="-27.98" description="" tilt="23.73"/>
+      <hotspot id="Point06" target="" url="" skinid="ht_info" title="作品簡介/ Artwork Introduction" pan="-333.37" description="Dreamland III&#xa;&#xa;謝貽娟短短五十年的一生，卻畫有1600餘張的自畫像，從1993年起，她每日都在英國住處的角落畫自畫像，間或持續至1999年。這張版畫算是自畫像的第一張，由四個方塊組成的構圖中，中間為謝貽娟人像，周圍以線條表現頭髮、物象和自然，再以灰黑和黃之對比，呈現多樣的面貌以及標題中的「夢境」。&#xa;&#xa;During her short life of 50 years, Jo Hsieh produced over 1,600 self-portraits. From 1993 to 1999, she created one almost every day in a corner of her residence in the UK. Considered the first of these self-portraits, this print is composed of four rectangular sections, with Hsieh’s image at the center surrounded by linear depictions of hair, objects, and nature. The contrast between gray-black and yellow presents varied visual elements and suggests the “dreamland” of the title." tilt="-3.94"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="06" nodeid="node6" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node5}" skinid="ht_node_1" title="" pan="-77.08" description="" tilt="-8.7"/>
+      <hotspot id="Point02" target="$fwd" url="{node7}" skinid="ht_node_1" title="" pan="-189.74" description="" tilt="-12.29"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title=" 我與我們/ I, We, and the In-Between" pan="-13.19" description="以藝術家的自畫像與人像創作為出發，呈現她們從個體意識到群體關係的探索。李錦繡自1970年代即關注人與自我的關係，從同儕、家庭到社會，透過灰色調與光影，捕捉倒影與逆光中的自我形象。她以線條留存輪廓與過程，發展出帶有攝影語言與負片效果的人像系列，展現「我與群」之間的曖昧與交錯。&#xa;&#xa;謝貽娟則以「自畫像」作為日記，記錄自身與環境、物件、動物之間的互動與感知。離鄉到英國，她在異地持續尋找「根」，將童年經驗、家鄉記憶融入畫作。「人」形圖騰在她作品中跳躍，展現她對自我與他者的反覆凝視與解析。&#xa;&#xa;從她們的創作可見「我」如何在變動中被重新定義，也見證她們如何藉藝術實踐與生活對話，追尋內在的安放與自處。從具象到抽象，從線條到色彩，兩位藝術家在不同途徑中，找到自我的定位。&#xa;&#xa;I, We, and the In-Between&#xa;Focusing on the artists’ self-portraits and portraits, this section presents their exploration from individual consciousness to collective relationships. Since the 1970s, Lii Jiin Shiow had developed a keen interest in the relationship between people and the self, including peers, family, and society. Through gray tones and the interplay of light and shadow, she captured her self-image from reflections and backlighting. Using lines to preserve contours and processes, she created a series of portraits integrating photographic language and the effects of negative imagery, which represented the ambiguity and interlacing between “I and the group.” &#xa;Like keeping a diary, Jo Hsieh painted self-portraits to record her interactions with and perceptions of the environment, objects, and animals. After leaving her hometown for the UK, she continued to search for her “roots” abroad and infused her childhood experiences and memories of her hometown into her paintings. The totems of “human form” leap across her works, manifesting her repeated gaze and analysis of the self and the other.&#xa;From the two artists’ works, we can observe how the concept of “I” is redefined in a constantly changing context, and witness how they, through artistic practice, engaged in a dialogue with life and sought inner peace and self-settlement. From the figurative to the abstract, from lines to colors, they found their own sense of identity through different paths. " tilt="24.18"/>
+      <hotspot id="Point05" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-321.95" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：同學六人行/ Six Friends&#xa;創作年代/ Year：1977&#xa;尺寸/Size：53.7 × 77 cm&#xa;類型/ Medium：水彩、紙/ Watercolor on paper&#xa;典藏借展/ Collection：嘉義市立美術館典藏/ Collection of Chiayi Art Museum" tilt="8.88"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="07" nodeid="node7" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node6}" skinid="ht_node_1" title="" pan="-92.49" description="" tilt="-9.37"/>
+      <hotspot id="Point02" target="$fwd" url="{node8}" skinid="ht_node_1" title="" pan="-277.19" description="" tilt="-12.15"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-337.15" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：婚禮/ The Wedding&#xa;創作年代/ Year：1978&#xa;尺寸/Size：75.6 × 55.7 cm&#xa;類型/ Medium：水彩、紙/ Watercolor on paper&#xa;典藏借展/ Collection：嘉義市立美術館典藏/ Collection of Chiayi Art Museum" tilt="10.41"/>
+      <hotspot id="Point04" target="" url="" skinid="ht_info" title="作品簡介/ Artwork Introduction" pan="-28" description="婚禮/ The Wedding&#xa;&#xa;這件作品創作於李錦繡探索自我的時期，當時的她經常以群像為主軸，繪寫家族、婚姻與密不可分的親情。李錦繡曾在論文中提及自己喜愛灰色，因為其模糊性及曖昧性。這件作品以灰黑、模糊的形式呈現家族婚禮合照場景，一改清晰的模樣，借用攝影負片的效果，反轉明暗與黑白的關係，在灰色與黑色的主調中留下人形和輪廓。&#xa;&#xa;This work was created during the period when Lii Jiin Shiow focused on the exploration of the self, often using group portraits to depict family, marriage, and the deep bonds of kinship. Lii once expressed in her essay her fondness for the color gray because of its obscurity and ambiguity. Subverting photographic clarity, this work features a blurred, gray-black toned family wedding portrait. It draws on the effects of negative imagery to reverse the relationship between light and dark, black and white, leaving silhouetted figures in a gray-black palette." tilt="11.49"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="08" nodeid="node8" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="" url="{node7}" skinid="ht_node_1" title="" pan="-76.01" description="" tilt="-11.53"/>
+      <hotspot id="Point02" target="$fwd" url="{node9}" skinid="ht_node_1" title="" pan="-278.07" description="" tilt="-19.14"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-24.3" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：家族 (六)/ Family 6&#xa;創作年代/ Year：1982&#xa;尺寸/Size：54.2 × 74.2 cm&#xa;類型/ Medium：水彩、紙/ Watercolor on paper&#xa;典藏借展/ Collection：嘉義市立美術館典藏/ Collection of Chiayi Art Museum" tilt="9.75"/>
+      <hotspot id="Point04" target="_blank" url="images/image-1.jpg" skinid="ht_image" title="家族 (六)/ Family 6" pan="-335.46" description="" tilt="8.89"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="09" nodeid="node9" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node8}" skinid="ht_node_1" title="" pan="-86.3" description="" tilt="-10.5"/>
+      <hotspot id="Point02" target="$fwd" url="{node30}" skinid="ht_node_1" title="" pan="-275.27" description="" tilt="-9.31"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-25.9" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：家族因緣/ Family Fortune&#xa;創作年代/ Year：1976&#xa;尺寸/Size：97 × 130 cm&#xa;類型/ Medium：油彩、畫布/ Oil on canvas&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="8.46"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="10" nodeid="node30" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="" url="{node9}" skinid="ht_node_1" title="" pan="-78.97" description="" tilt="-16.93"/>
+      <hotspot id="Point02" target="" url="{node10}" skinid="ht_node_1" title="" pan="-294.32" description="" tilt="-18.79"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-338.81" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：對影/ A Pair of Shadows&#xa;創作年代/ Year：1977&#xa;尺寸/Size：100.5 × 130 cm&#xa;類型/ Medium：壓克力彩、畫布/ Acrylic on canvas&#xa;典藏借展/ Collection：嘉義市立美術館典藏/ Collection of Chiayi Art Museum" tilt="5.24"/>
+      <hotspot id="Point04" target="_blank" url="images/image.jpg" skinid="ht_image" title="對影/ A Pair of Shadows" pan="-3.27" description="" tilt="26.03"/>
+      <hotspot id="Point05" target="" url="" skinid="ht_info" title="作品簡介/ Artwork Introduction" pan="-28.42" description="對影/ A Pair of Shadows&#xa;&#xa;1970年代中期，李錦繡展開長達七年的家族照片系列創作。這系列靈感來自攝影底片的負片效果，經常以灰、黑色為基調，主題為個人生命、日常生活，描繪對象為家人手足、同學朋友。最初畫面經常有黑色團塊圍繞在人物周邊，形成畫面空間的層次。本作《對影》以弟弟李英哲為對象，畫面中兩個人物以相同的坐姿前後並列，神貌模糊，具有相似又相異的趣味。&#xa;&#xa;In the mid-1970s, Lii Jiin Shiow began a seven-year series of works based on family photographs. Inspired by the effects of negative imagery, this series often features gray and black as its dominant tones and explores themes of personal life and everyday experience, depicting family members, siblings, classmates, and friends. In the early pieces of this series, black masses frequently surround the figures to create a layered pictorial space. This work, A Pair on Shadows, portrays the artist’s younger brother, Lii Ying-che. With their faces rendered ambiguously, the two figures sit one behind the other in identical postures, showing interesting resemblances and differences." tilt="4.25"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="11" nodeid="node10" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node30}" skinid="ht_node_1" title="" pan="-86.15" description="" tilt="-5.62"/>
+      <hotspot id="Point02" target="$fwd" url="{node11}" skinid="ht_node_1" title="" pan="-280.65" description="" tilt="-23.73"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-356.4" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：都會形影/ Appearance of the City&#xa;創作年代/ Year：1985&#xa;尺寸/Size：75 × 120 cm&#xa;類型/ Medium：壓克力彩、紙/ Acrylic on paper&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="-10.09"/>
+      <hotspot id="Point04" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-321.84" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：群/ The Group&#xa;創作年代/ Year：1986&#xa;尺寸/Size：74 × 89 cm&#xa;類型/ Medium：油彩、畫布/ Oil on canvas&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="-9.33"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="12" nodeid="node11" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node10}" skinid="ht_node_1" title="" pan="-168.06" description="" tilt="-8.73"/>
+      <hotspot id="Point02" target="$fwd" url="{node12}" skinid="ht_node_1" title="" pan="-209.67" description="" tilt="-8.69"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-331.18" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：巴黎磊阿了商場（二）/ Les Halles (2)&#xa;創作年代/ Year：1986&#xa;尺寸/Size：30 × 40 cm&#xa;類型/ Medium：相紙/ Photographic paper&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="21.96"/>
+      <hotspot id="Point04" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-20.09" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：巴黎磊阿了商場（一）/ Les Halles (1)&#xa;創作年代/ Year：1986&#xa;尺寸/Size：52 × 30 cm&#xa;類型/ Medium：相紙/ Photographic paper&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="-7.48"/>
+      <hotspot id="Point05" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-331.82" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：無言/ Silence&#xa;創作年代/ Year：1976&#xa;尺寸/Size：40 × 54 cm&#xa;類型/ Medium：鉛筆、水墨、紙/ Pencil, ink on paper&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="-8.87"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="13" nodeid="node12" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node11}" skinid="ht_node_1" title="" pan="-115.71" description="" tilt="-4.69"/>
+      <hotspot id="Point02" target="$fwd" url="{node13}" skinid="ht_node_1" title="" pan="-79.72" description="" tilt="-6.51"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-18.48" description="藝術家/ Artist：謝貽娟/ Jo Hsieh&#xa;作品名稱/ Title：無題/ Untitled&#xa;創作年代/ Year：1993&#xa;尺寸/Size：71.5× 55.5 cm&#xa;類型/ Medium：水彩、紙/ Watercolor on paper&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="9.04"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="14" nodeid="node13" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node12}" skinid="ht_node_1" title="" pan="-293.57" description="" tilt="-21.91"/>
+      <hotspot id="Point02" target="$fwd" url="{node14}" skinid="ht_node_1" title="" pan="-86.47" description="" tilt="-13.52"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-28.72" description="藝術家/ Artist：謝貽娟/ Jo Hsieh&#xa;作品名稱/ Title：無題/ Untitled&#xa;創作年代/ Year：1993&#xa;尺寸/Size：55.5 × 71.5 cm&#xa;類型/ Medium：水彩、紙/ Watercolor on paper&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="9.78"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="15" nodeid="node14" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node13}" skinid="ht_node_1" title="" pan="-288.87" description="" tilt="-18.26"/>
+      <hotspot id="Point02" target="$fwd" url="{node15}" skinid="ht_node_1" title="" pan="-73.28" description="" tilt="-11.94"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-13.56" description="藝術家/ Artist：謝貽娟/ Jo Hsieh&#xa;作品名稱/ Title：無題/ Untitled&#xa;創作年代/ Year：1988&#xa;尺寸/Size：69 × 189 cm&#xa;類型/ Medium：油彩、畫布/ Oil on canvas&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="-9.1"/>
+      <hotspot id="Point04" target="_blank" url="images/OT0212.jpg" skinid="ht_image" title="無題/ Untitled" pan="-348.42" description="" tilt="26.24"/>
+      <hotspot id="Point05" target="" url="" skinid="ht_info" title="作品簡介/ Artwork Introduction" pan="-325.87" description="無題/ Untitled&#xa;&#xa;《無題》以油彩繪製而成，畫中遠景是美麗的山群，前景是一群共舞的人們。這幅畫靈感來自謝貽娟母親過去所任教的嘉義竹崎一帶的風景，源於她自童年到成長期的經驗。本作也是她尚未轉入抽象之前、較爲早期也較為具象的風景作品，畫中可見嘉義的自然、山脈，以及人文風情，也是她與嘉義的深刻連結。對謝貽娟來說，嘉義是「適合歸返、療癒、作畫和找尋自我的地方」。&#xa;&#xa;The oil painting Untitled delineates a beautiful mountain range in the background and a group of dancing figures in the foreground. This painting draws inspiration from the landscapes of Jhuci in Chiayi, where Jo Hsieh’s mother once taught, as well as from her childhood and formative experiences. Created before her transition into abstraction, this is one of Hsieh’s earlier and more figurative landscape paintings. The natural scenery, mountain forms, and cultural imagery illustrated in the work reflect her deep connection to Chiayi. For Hsieh, Chiayi is “a place for returning, healing, painting, and self-discovery.”" tilt="7.69"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="16" nodeid="node15" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node14}" skinid="ht_node_1" title="" pan="-281.36" description="" tilt="-16.41"/>
+      <hotspot id="Point02" target="$fwd" url="{node16}" skinid="ht_node_1" title="" pan="-67.72" description="" tilt="-14.27"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-18.42" description="藝術家/ Artist：謝貽娟/ Jo Hsieh&#xa;作品名稱/ Title：無題/ Untitled&#xa;創作年代/ Year：1993&#xa;尺寸/Size：56.7 × 75.5cm&#xa;類型/ Medium：水彩、紙/ Watercolor on paper&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="7.82"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="17" nodeid="node16" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node15}" skinid="ht_node_1" title="" pan="-283.06" description="" tilt="-15.31"/>
+      <hotspot id="Point02" target="$fwd" url="{node17}" skinid="ht_node_1" title="" pan="-85.85" description="" tilt="-12.92"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-23.46" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：進行中的自畫像/ Self Portrait in Progress&#xa;創作年代/ Year：1992&#xa;尺寸/Size：110 × 79 cm&#xa;類型/ Medium：壓克力彩、紙/ Acrylic on paper&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="10.04"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="18" nodeid="node17" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node16}" skinid="ht_node_1" title="" pan="-294.76" description="" tilt="-28.16"/>
+      <hotspot id="Point02" target="$fwd" url="{node18}" skinid="ht_node_1" title="" pan="-87.05" description="" tilt="-19.98"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-22.63" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：室內、我/ I, Indoors&#xa;創作年代/ Year：1985&#xa;尺寸/Size：101 × 73 cm&#xa;類型/ Medium：油彩、畫布/ Oil on canvas&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="9.45"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="19" nodeid="node18" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node17}" skinid="ht_node_1" title="" pan="-257.52" description="" tilt="-24.31"/>
+      <hotspot id="Point02" target="$fwd" url="{node19}" skinid="ht_node_1" title="" pan="-105.94" description="" tilt="-27.47"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-31.94" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：自畫像（1985-3）/ Self-portrait (1985-3)&#xa;創作年代/ Year：1985&#xa;尺寸/Size：35 × 28 cm&#xa;類型/ Medium：壓克力彩、透明膠片/ Acrylic on transparent film&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="17.2"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="20" nodeid="node19" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node20}" skinid="ht_node_1" title="" pan="-229.6" description="" tilt="-8"/>
+      <hotspot id="Point02" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-42.67" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：自畫像/ Self Portrait&#xa;創作年代/ Year：1985&#xa;尺寸/Size：36 × 28 cm&#xa;類型/ Medium：壓克力彩、紙/ Acrylic on paper&#xa;典藏借展/ Collection：臺北市立美術館典藏/ Collection of Taipei Museum of Fine Arts" tilt="-16.9"/>
+      <hotspot id="Point03" target="$fwd" url="{node18}" skinid="ht_node_1" title="" pan="-286.02" description="" tilt="-19.9"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="21" nodeid="node20" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node19}" skinid="ht_node_1" title="" pan="-138.29" description="" tilt="-7.39"/>
+      <hotspot id="Point02" target="$fwd" url="{node21}" skinid="ht_node_1" title="" pan="-193.75" description="" tilt="-17.13"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-330.79" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：自我的探尋/ The Search of Self&#xa;創作年代/ Year：1984&#xa;尺寸/Size：64 × 35.5 cm&#xa;類型/ Medium：水彩、鉛筆、粉彩、紙/ Watercolor, pastel, pencil on paper&#xa;典藏借展/ Collection：嘉義市立美術館典藏/ Collection of Chiayi Art Museum" tilt="14"/>
+      <hotspot id="Point04" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-293.16" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：無題/ Untitled&#xa;創作年代/ Year：年代不詳&#xa;尺寸/Size：38 × 38 cm&#xa;類型/ Medium：油彩、畫布/ Oil on canvas&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="-4.75"/>
+      <hotspot id="Point05" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-245.43" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：袓父/ Grandfather&#xa;創作年代/ Year：年代不詳&#xa;尺寸/Size：56 × 70.5 cm&#xa;類型/ Medium：粉彩、鉛筆、紙/ Pastel and pencil on paper&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="10.38"/>
+      <hotspot id="Point06" target="" url="" skinid="ht_info" title="作品簡介/ Artwork Introduction" pan="-24.64" description="自我的探尋/ The Search of Self&#xa;&#xa;本作的構圖彷如一種電影「分鏡」般的結構，也像是動畫中的逐格敘事。是李錦繡在巴黎時期經常實驗的空間型態，有時讓空間反射多重倒影，有時描繪連續時間中不斷改變的影像與空間。此作可見日後《任遨遊》系列的空間分割與探索，其中潛藏著自己與所在環境物件的物我、人我關係，以及與空間關係所進行的對話。&#xa;&#xa;The composition of this work resembles a film storyboard or a frame-by-frame narrative in animation. It reflects the kind of spatial structure that Lii Jiin Shiow often experimented with during her time in Paris, sometimes incorporating multiple mirrored reflections, and sometimes depicting shifting images and spaces across continuous time. This work foreshadows the spatial segmentation and exploration found in her later Roaming Everywhere series, revealing subtle dialogues between the self and the surrounding objects, between the self and others, and between the self and the space.&#xa;" tilt="14.03"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="22" nodeid="node21" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node20}" skinid="ht_node_1" title="" pan="-82.14" description="" tilt="-5.92"/>
+      <hotspot id="Point02" target="$fwd" url="{node22}" skinid="ht_node_1" title="" pan="-288.53" description="" tilt="-14.62"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-346.4" description="藝術家/ Artist：李錦繡/ Lii Jiin Shiow&#xa;作品名稱/ Title：時空記憶（獨）/ Memory of Space and Time (alone)&#xa;創作年代/ Year：1993&#xa;尺寸/Size：79 × 54 cm&#xa;類型/ Medium：壓克力彩、紙板/ Acrylic on cardboard&#xa;典藏借展/ Collection：家屬收藏/ Private Collection&#xa;" tilt="16.27"/>
+      <hotspot id="Point04" target="" url="" skinid="ht_info" title="作品簡介/ Artwork Introduction" pan="-27.26" description="時空記憶（獨）/ Memory of Space and Time (alone)&#xa;&#xa;李錦繡曾說：「透明的空間，我的存在應也是透明自在。」1990年代之後，家中的室內空間成為李錦繡主要的作畫題材，從早期自畫像到後期家居空間，可以看見畫家從人物、自我的變化，移情至物件和空間。李錦繡一生大部分時間都奉獻給家人，她在家中有限的空間中作畫，灰色調成為模糊和沒有界線的延伸，顯得透明自在。畫中一張色彩明亮的「椅子」，成為她寄情自我的載體，最終也是一種自我存在的遨遊與自由，造就屬於自己的另一種「自畫像」。&#xa;&#xa;Lii Jiin Shiow once said: “In a transparent space, my existence should also be transparent and free.” From the 1990s onward, the interior space of her home became the main theme of her work. From early self-portraits to later depictions of domestic interiors, the artist gradually shifted her focus from figures and personal changes to objects and space. With most of her life dedicated to her family, Lii painted within the confined space of her home. The gray tones in her work evoke a sense of obscurity and boundlessness, conveying feelings of transparency and ease. In this painting, a brightly colored “chair” becomes a symbol of self-expression, which ultimately represents a free and roaming existence, and forms an alternative “self-portrait.” " tilt="16.16"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="23" nodeid="node22" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node21}" skinid="ht_node_1" title="" pan="-78.52" description="" tilt="-12.44"/>
+      <hotspot id="Point02" target="$fwd" url="{node23}" skinid="ht_node_1" title="" pan="-289.96" description="" tilt="-8.61"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-341.74" description="藝術家/ Artist：謝貽娟/ Jo Hsieh&#xa;作品名稱/ Title：無題/ Untitled&#xa;創作年代/ Year：年代不詳&#xa;尺寸/Size：56.5 × 76cm&#xa;類型/ Medium：壓克力彩、紙/ Acrylic on paper&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="-6.92"/>
+      <hotspot id="Point04" target="_blank" url="images/BL0085.jpg" skinid="ht_image" title="無題/ Untitled" pan="-356.58" description="" tilt="26.19"/>
+      <hotspot id="Point05" target="" url="" skinid="ht_info" title="作品簡介/ Artwork Introduction" pan="-22.76" description="無題/ Untitled&#xa;&#xa;謝貽娟說：「藍色是沈靜的，不張狂的，一種理性的姿態，一種精神上的穩定，一種心靈上的平衡。」在探索自然與物理世界的表象、內容之間，她最終用單色、幾何的方式，呈現自身收穫與感知，在一片藍色礦物粉末中，濃縮世界觀與精神性的參透。創作中的勞動也是謝貽娟找尋自我與體悟的過程，她說「沒有人懂我在說什麼，只有畫畫懂我」，畫是她自己，一片藍色和純粹的幾何，是她自處與延伸的宇宙，也是她所凝鍊的「自畫像」。&#xa;&#xa;Jo Hsieh said: “The color blue, calm and unassuming, is a rational stance, a mental steadiness, and a spiritual balance.” While exploring the representations and essences of the natural and physical world, she ultimately turned to monochromic and geometric forms to express her own insights and perceptions. Within the blue mineral powder, she distilled a worldview and spiritual clarity. In Hsieh’s work, the labor of creative practice is also the process of discovering and understanding the self. She said: “No one understands what I am saying, except painting.” Painting represents herself, while the blue tones and pure geometry form a universe where she both dwelt and expanded, as well as the “self-portraits” she carefully crafted.  " tilt="8.76"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="24" nodeid="node23" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node22}" skinid="ht_node_1" title="" pan="-173.67" description="" tilt="-19.88"/>
+      <hotspot id="Point03" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-94.68" description="藝術家/ Artist：謝貽娟/ Jo Hsieh&#xa;作品名稱/ Title：無題/ Untitled&#xa;創作年代/ Year：年代不詳&#xa;尺寸/Size：57.7 × 57cm&#xa;類型/ Medium：水彩、紙/ Watercolor on paper&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="-6.66"/>
+      <hotspot id="Point04" target="" url="" skinid="ht_info" title="作品資訊/ Artwork Information" pan="-72.41" description="藝術家/ Artist：謝貽娟/ Jo Hsieh&#xa;作品名稱/ Title：無題/ Untitled&#xa;創作年代/ Year：1997&#xa;尺寸/Size：59.3 × 42cm&#xa;類型/ Medium：油彩、紙/ Oil on paper&#xa;典藏借展/ Collection：家屬收藏/ Private Collection" tilt="-5.96"/>
+      <hotspot id="Point02" target="$fwd" url="{node26}" skinid="ht_node_1" title="" pan="-290.09" description="" tilt="-11.36"/>
+      <hotspot id="Point05" target="_blank" url="images/image-2.jpg" skinid="ht_image" title="作品簡介/ Artwork Introduction" pan="-35.84" description="" tilt="-2.08"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="25" nodeid="node26" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point02" target="$fwd" url="{node27}" skinid="ht_node_1" title="" pan="-177.32" description="" tilt="-11.99"/>
+      <hotspot id="Point01" target="$fwd" url="{node23}" skinid="ht_node_1" title="" pan="-78.32" description="" tilt="-6.64"/>
+      <hotspot id="Point03" target="_blank" url="media/document.pdf" skinid="ht_pdf" title="關鍵記事年表" pan="-325.25" description="" tilt="-14.43"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="26" nodeid="node27" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node26}" skinid="ht_node_1" title="" pan="-187.29" description="" tilt="-14.56"/>
+      <hotspot id="Point02" target="$fwd" url="{node28}" skinid="ht_node_1" title="" pan="-106.1" description="" tilt="-14.56"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="27" nodeid="node28" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="" url="{node27}" skinid="ht_node_1" title="" pan="-197.14" description="" tilt="-22.69"/>
+      <hotspot id="Point02" target="$fwd" url="{node29}" skinid="ht_node_1" title="" pan="-274.17" description="" tilt="-22.49"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelingpitch="0" width="2976" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2976" leveltilesize="510" overlap="1" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2976" predecode="0" height="2976" preload="0"/>
+      <level width="1488" predecode="0" height="1488" preload="0"/>
+      <level width="744" predecode="0" height="744" preload="0"/>
+      <level width="372" predecode="1" height="372" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" fovstereographic="330" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="" altitude="38.00" longitude="120.440703" title="28" nodeid="node29" info="" latitude="23.476956" copyright="" tags="" heading="0" customnodeid="" description="" comment="" author="" source=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" enabled="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" background="1" wordwrap="1" borderradius="1" border="1" height="20" borderalpha="1" textalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="$fwd" url="{node28}" skinid="ht_node_1" title="" pan="-262.64" description="" tilt="-11.23"/>
+      <hotspot id="Point02" target="_blank" url="https://www.youtube.com/watch?v=Uzb1MOeW-g8" skinid="ht_video_youtube" title="紀錄片/ Videos" pan="-328.35" description="" tilt="9.45"/>
+      <hotspot id="Point03" target="_blank" url="https://vtour.cloud/tevwe1/nbhefc4w/index.html?ts=508923" skinid="ht_url" title="往2F展場" pan="-251" description="" tilt="-15.79"/>
+      <hotspot id="Point04" target="_blank" url="https://vtour.cloud/tevwe1/1p78sex4/index.html?ts=561992" skinid="ht_url" title="往3F展場" pan="-243.12" description="" tilt="-15.41"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="40" blendtime="1" type="crossdissolve" zoomafterinfov="140" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboard="0" contextprojections="0" invertcontrol="1" simulatemass="1" lockedmouse="0" invertwheel="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" tags="" title="" description="" author="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
